@@ -1,0 +1,8 @@
+pandas==2.0.3
+numpy==1.24.4
+scipy==1.7.3
+transformers==4.42.3
+sentence-transformers==2.4.0
+python-dotenv==1.0.0
+
+
